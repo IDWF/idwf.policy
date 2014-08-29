@@ -35,6 +35,7 @@ setup(name='idwf.policy',
           'plone.multilingualbehavior',
           'plone.app.versioningbehavior',
           'five.pt',
+          'collective.cover',
           # -*- Extra requirements: -*-
       ],
       extras_require={
