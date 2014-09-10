@@ -36,6 +36,7 @@ setup(name='idwf.policy',
           'plone.app.versioningbehavior',
           'five.pt',
           'collective.cover',
+          'idwfed.theme',
           # -*- Extra requirements: -*-
       ],
       extras_require={
