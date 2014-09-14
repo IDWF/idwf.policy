@@ -37,6 +37,7 @@ setup(name='idwf.policy',
           'five.pt',
           'collective.cover',
           'idwfed.theme',
+          'idwf.thematic',
           # -*- Extra requirements: -*-
       ],
       extras_require={
