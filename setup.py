@@ -38,6 +38,7 @@ setup(name='idwf.policy',
           'collective.cover',
           'idwfed.theme',
           'idwf.thematic',
+          'collective.disqus',
           # -*- Extra requirements: -*-
       ],
       extras_require={
