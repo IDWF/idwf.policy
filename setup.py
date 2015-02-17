@@ -37,6 +37,7 @@ setup(name='idwf.policy',
           'five.pt',
           'collective.cover',
           'idwfed.theme',
+          'sc.social.like',
           'idwf.thematic',
           'collective.disqus',
           # -*- Extra requirements: -*-
