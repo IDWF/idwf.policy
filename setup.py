@@ -38,8 +38,10 @@ setup(name='idwf.policy',
           'collective.cover',
           'idwfed.theme',
           'sc.social.like',
+	  'xhostplus.social',
           'idwf.thematic',
           'collective.disqus',
+	  
           # -*- Extra requirements: -*-
       ],
       extras_require={
