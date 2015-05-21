@@ -41,6 +41,7 @@ setup(name='idwf.policy',
 	  'xhostplus.social',
           'idwf.thematic',
           'collective.disqus',
+          'atreal.usersinout',
 	  
           # -*- Extra requirements: -*-
       ],
